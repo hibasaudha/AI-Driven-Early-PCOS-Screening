@@ -1,0 +1,13 @@
+# --- CORE WEB FRAMEWORK ---
+streamlit>=1.20.0
+
+# --- DATA SCIENCE & MATH ---
+numpy>=1.23.5
+matplotlib>=3.7.1
+
+# --- IMAGE PROCESSING ---
+Pillow>=9.4.0
+
+# --- DEEP LEARNING ---
+# Note: Use 'tensorflow-cpu' if you don't have a dedicated GPU
+tensorflow>=2.12.0
