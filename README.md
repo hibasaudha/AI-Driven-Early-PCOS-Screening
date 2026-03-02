@@ -1,4 +1,4 @@
-# 🩺 BLOOMCHECK: AI-Powered PCOS Early Screening
+# 🩺 AI-Powered PCOS Early Screening
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.20+-red.svg)
