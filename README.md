@@ -36,3 +36,10 @@ pip install -r requirements.txt
 Run the Application:
 
 streamlit run sample.py
+
+⚠️ Medical Disclaimer
+This tool is for educational and screening purposes only. It does not provide a formal medical diagnosis. Users are encouraged to consult a healthcare professional for clinical testing.
+
+🎓 Honors Project Credits
+Developed by: Hiba Saudha
+
